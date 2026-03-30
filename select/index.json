@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "STAR BEAT!～ホシノコドウ～",
+  "base_artist": "Poppin'Party",
+  "createdAt": "2026-03-30T15:40:46.779962Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "STAR BEAT!〜ホシノコドウ〜",
+      "artist": "Poppin'Party",
+      "has_synced": true,
+      "path": "select/01_STAR_BEAT!〜ホシノコドウ〜_Poppin'Party.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "STAR BEAT! 〜ホシノコドウ〜",
+      "artist": "Poppin'Party",
+      "has_synced": true,
+      "path": "select/02_STAR_BEAT!_〜ホシノコドウ〜_Poppin'Party.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "STAR BEAT! ～ホシノコドウ～",
+      "artist": "Poppin' Party",
+      "has_synced": true,
+      "path": "select/03_STAR_BEAT!_~ホシノコドウ~_Poppin'_Party.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "STAR BEAT! ～ホシノコドウ～",
+      "artist": "Poppin'Party",
+      "has_synced": true,
+      "path": "select/04_STAR_BEAT!_~ホシノコドウ~_Poppin'Party.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "STAR BEAT!～ホシノコドウ～",
+      "artist": "Poppin'Party",
+      "has_synced": true,
+      "path": "select/05_STAR_BEAT!~ホシノコドウ~_Poppin'Party.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "STAR BEAT!～ホシノコドウ～",
+      "artist": "Poppin'Party",
+      "has_synced": true,
+      "path": "select/06_STAR_BEAT!~ホシノコドウ~_Poppin'Party.lrc"
+    }
+  ]
+}
